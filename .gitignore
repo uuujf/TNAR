@@ -1,0 +1,8 @@
+*logs/
+*log/
+*.sh
+*.vscode/
+*.idea/
+*.ropeproject/
+*__pycache__/
+*.swp
